@@ -9,7 +9,7 @@
 </head>
 <body>    
     <div class="container mx-auto">
-        <livewire:nav-bar/>
+        <livewire:navbar/>
         {{ $slot }}
     </div>
 </body>
